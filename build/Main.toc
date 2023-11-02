@@ -1,0 +1,47 @@
+\contentsline {section}{\numberline {1}Overview}{3}{section.1}%
+\contentsline {section}{\numberline {2}CyberPatriot}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Overall Logistics}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Qualifying Images (September 1---September 18)}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Official Practice Round (October 13)}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Round 1 (October 21)}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Round 2 (November 4)}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}State Round (December 2)}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}CyberPatriot Semifinals (January 20)}{5}{subsection.2.7}%
+\contentsline {section}{\numberline {3}CSAW CTF}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Logistics}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Description}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}ASIS CTF}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Logistics}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Description}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}CyberStart America}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Logistics}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Description}{6}{subsection.5.2}%
+\contentsline {section}{\numberline {6}DiceCTF}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Logistics}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Description}{7}{subsection.6.2}%
+\contentsline {section}{\numberline {7}LA CTF}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Logistics}{7}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Description}{7}{subsection.7.2}%
+\contentsline {section}{\numberline {8}US Cyber Challenge: Cyber Quests}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Logistics}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Description}{8}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Lockheed Martin's CyberQuest}{8}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Logistics}{8}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Description}{9}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Technology Student Association's Cybersecurity Event}{9}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Logistics}{9}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Description}{9}{subsection.10.2}%
+\contentsline {section}{\numberline {11}picoCTF}{9}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Logistics}{9}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Description}{10}{subsection.11.2}%
+\contentsline {section}{\numberline {12}Cyber Skyline's National Cyber League (NCL)}{10}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Logistics}{10}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Description}{10}{subsection.12.2}%
+\contentsline {section}{\numberline {13}ÅngstromCTF}{11}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Logistics}{11}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Description}{11}{subsection.13.2}%
+\contentsline {section}{\numberline {14}TJCTF}{11}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Logistics}{11}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Description}{12}{subsection.14.2}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,0 +1,230 @@
+---
+title: "2023-2024 GSMST CS Club CyberDragons Master Timeline"
+format:
+  pdf:
+    toc-location: body
+    toc: true
+    toc-title: "Table of Contents"
+    toc-depth: 6
+    mainfont: Inter
+    sansfont: Inter
+    number-sections: true
+    colorlinks: true 
+    keep-tex: true
+    author: 
+        - Anish Goyal (Chief of Competitions)
+        - Bibek Bhattari (CyberDragons Head)
+        - Andrew Zeng (CyberDragons Assistant Head)
+    include-in-header: 
+        text: |
+            \usepackage{tikz}
+            \newfontfamily\sectionfont[Color=000000]{Inter}
+            \newfontfamily\subsectionfont[Color=000000]{Inter}
+            \newfontfamily\subsubsectionfont[Color=000000]{Inter}
+            \addtokomafont{section}{\sectionfont}
+            \addtokomafont{subsection}{\subsectionfont}
+            \addtokomafont{subsubsection}{\subsubsectionfont}
+            \usepackage{fvextra}
+            \usepackage{svg}
+            \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
+---
+{{< pagebreak >}}
+
+# Overview 
+This document provides a comprehensive overview of all of the deadlines and events for the 2023-2024 GSMST CS Club CyberDragons. It is intended to be used as an "at-a-glance" reference for mentors and competitors, as all of these same deadlines and events can be found on both the [**proposal document**](https://drive.google.com/file/d/1m0VGlUpv1V3IJLBle5qOZae0BnPgdrRq/view?usp=sharing) and **club calendar**. Keep in mind that not all the dates have been finalized yet, and it is important to periodically check the competition sites for any date changes. Also, if there aren't any prizes written in the description, then that just means that the prizes haven't been finalized yet or there aren't any cash prizes. This document will be ordered by the competitions 
+
+# CyberPatriot
+## Overall Logistics
+**Competition Period:** October 21---January 20
+
+**Registration Period:** \
+    - Team Registration: May 31---October 5 \
+    - Rosters Finalized: November 1 \
+    - Payment Deadline: November 15 
+
+**Fees:** $205 per team, all girls teams are free
+
+**Limit:** 5 teams, 6 members per team
+
+[CyberPatriot](https://www.uscyberpatriot.org/) is such a big thing for CyberDragons that we have multiple deadlines to prepare for the competitions, as well as the actual *dates* of the competitions themselves.
+
+## Qualifying Images (September 1---September 18)
+Every year, we release a set of "qualifying images" that applicants are required to do one of to be in CyberPatriot (along with the short answer Google Form and paying $30). The release date for these images will be *during our first CyberDragons meeting* on September 1. They will have until September 18 at 8 AM to score as many points as they can, or about 2.5 weeks. But you may be wondering: what's the incentive for our applicants to spend more than the required six hours on the qualifying image of their choice other than the fact that it's required and it will "make them better?" Well, we are implementing a mini-competition system here. Whoever gets the most points out of all of the qualifying images, they will receive a special prize. And the top 6 performing members overall will join Team Zeta, the fifth team dedicated to do as well as possible in the competition. The entire competition will be live. There will be a scoring server that remotely scores each image, containing the applicants' unique identifiers (aka their first name and last initial), which will deactivate at precisely 8 AM on September 18. This means that each participant's progress will be tracked *live*, through a Discord webhook, and everyone will be able to monitor the progress of themselves relative to their peers during the competition. Everyone's progress will be known to everyone else, and there will be no need to have them submit screenshots of their scores to the GSMST CS Club email anymore.
+
+## Official Practice Round (October 13)
+We will meet after school on October 13 to compete in CyberPatriot's official CyberPatriot practice round! And since the image difficulties for this practice round will be 100x easier than the qualifying images, this will definitely serve as a morale boost for all the CyberDragons members, since they now feel confident that they're actually performing *well*. But the practice round is also important for another reason: it serves as the only exposure CyberDragons will have to the *Boeing CyberPhysical Systems Challenge* before the semifinals round (assuming everyone places in platinum). Therefore, it's important to figure out what the Boeing challenge really is, and how we plan to attack it in the future.
+
+## Round 1 (October 21)
+The first round of CyberPatriot will take place on Saturday, October 21 from 9 AM---2 PM. Considering that the competition is now only *four* hours long instead of six, we shortened the time by an hour. This means that teams will have a little bit extra time at the end to improve their writeups and write reflections. Whether we make students pay for pizza or whether that is covered by the $30 cost is up to you, but I say $5 for pizza per person just like last year is a good plan.
+
+## Round 2 (November 4)
+The second round of CyberPatriot will take place on Saturday, November 4 from 9 AM---2 PM.
+
+## State Round (December 2)
+The state round of CyberPatriot will take place on Saturday, December 2 from 9 AM---2 PM.
+
+## CyberPatriot Semifinals (January 20)
+CyberPatriot semifinals (for qualifying teams) will take place on Saturday, January 20 from 9 AM---2 PM.
+
+# CSAW CTF
+## Logistics
+**Competition Period:** September 8---10
+
+**Registration Period**: August---September 10
+
+**Fees:** None
+
+**Limit:** None
+
+## Description
+[CSAW CTF](https://www.csaw.io/ctf) is one of the oldest and biggest jeopardy-style CTFs. This competition is for students who are trying to go into the field of security, as well as for advanced students and industry professionals who want to practice their skills. The qualifiers take place from September 8 to September 10, but high schoolers cannot go past the qualifier round.
+
+# ASIS CTF
+## Logistics
+**Competition Period**: September 23---24 \& December 30---31
+
+**Registration Period**: August---September 24
+
+**Fees:** None
+
+**Limit:** None
+
+## Description
+[ASIS CTF](https://asisctf.com/) is an annual jeopardy-style CTF competition organized by the ASIS (Academy or Skills and Information Security) team. The problems include: general security infomration (trivia), web hacking, modern cryptography, exploit, forensics, reverse engineering, steganography, etc. The qualification round is in late September and finals are in December.
+
+# CyberStart America
+## Logistics
+**Competition Period**: October---April
+
+**Registration Period:** October---April
+
+**Fees:** None
+
+**Limit:** None
+
+## Description
+A cybersecurity learning platform (CyberStart) based in the United Kingdom has expanded their reach to the United States, but since Americans won't be motivated without a little money incentive, they are offering cash prize for winners! This competition is asynchronous and lasts from October---April, which is basically the entire year. And technically, CyberDragons isn't even focusing on this competition: it's [Beginner's Programming](https://docs.google.com/document/d/17gccH6BFHdis-tRGBOMymy97Gh0RO_vw79blIst_hi4/edit?usp=sharing) that is. We're just telling CyberDragons members to participate because it would be good introductory material for beginners and a piece of cake for our more experienced members.
+
+# DiceCTF
+## Logistics
+**Competition Period**: February 6---7
+
+**Registration Period**: February 1---6
+
+**Fees:** None
+
+**Limit:** None
+
+## Description
+[DiceCTF](https://ctf.dicega.ng/) is an annual jeopardy-style CTF competition hosted every year by *DiceGang*, a prestigious competitive hacking group. The prize pool is $5000, and it is open to all students.
+
+# LA CTF
+## Logistics
+**Competition Period:** February 10---February 12
+
+**Registration Period**: TBD
+
+**Fees**: None
+
+**Limit**: None
+
+## Description
+[LA CTF](https://lactf.uclaacm.com/) is a jeopardy-style CTF competition hosted by UCLA. There is no size limit on teams, and non-UCLA students must compete in the *Open* division. The competition consists of a variety of competitive cybersecurity challenges in addition to relaxed events like typing competitions. It takes place in mid-February for 42 hours. 
+
+What we think is really cool about this CTF competition specifically is that there are also prizes awarded for the best write ups to the challenges of the competition, and write ups include video walkthroughs. So, if we really wanted to tryhard this CTF, we could just make a bunch of YouTube videos with really high production value and potentially get some prizes from doing that alone. But the prizes for winning the actual competition are $500, $300, $200, and $100 for 1st, 2nd, 3rd, and 4/5th place, respectively. 
+
+Another really cool thing about this competition is that there are going to be speakers on the UCLA campus streamed live for all the virtual participants. A notable name is John Hammond, who has his own YouTube channel for cybersecurity stuff.
+
+# US Cyber Challenge: Cyber Quests
+## Logistics
+**Competition Period**: February 12---March 26
+
+**Registration Period**: January 29---March 26
+
+**Fees:** None
+
+**Limit:** None
+
+## Description
+[Cyber Quests](https://uscc.cyberquests.org/) (not to be confused with LM's *CyberQuest*) is a online competition allowing participants to demonstrate their knowledge in a variety of information security realms. The main benefit of this competition is that it has a niche quiz (the entire competition is basically a quiz) that deals a lot with networking. There are no “teams” for this either; you have to create an account and participate individually and asynchronously, similar to CyberStart America.
+
+# Lockheed Martin's CyberQuest
+## Logistics
+**Competition Period**: March 4
+
+**Registration Period**: September/October (estimated)---February 3
+
+**Fees:** None
+
+**Limit:** 2 team limit for virtual and in-person each (4 max), up to three members per team
+
+## Description
+[CyberQuest](https://www.lockheedmartin.com/en-us/who-we-are/communities/cyber-quest.html) is a cloud-based competition created by Lockheed Martin cybersecurity engineers. There will be multi-step intrustion, steganography, reverse engineering, full OS hack, packet capture, and web exploitation. They will provide users with desktops that have Kali & Windows installed, both in-person and online.
+
+# Technology Student Association's Cybersecurity Event
+## Logistics
+**Competition Period**: March 13---16
+
+**Registration Period**: August---February 16
+
+**Fees:** $250 per student + food
+
+**Limit:** 5 people
+
+## Description
+[Technology Student Association (TSA)'s Cybersecurity event](https://docs.google.com/document/d/1q5fqitr-ezFVO6owV2g9lBzOqPFntbkny2nBKQRG9OU/edit?usp=sharing) is an asynchronous jeopardy-style CTF challenge that is essentially picoCTF's little cousin. The idea here is the following: if we can get as many CyberDragons members into the Cybersecurity event as possible (since there's technically no limit on how many people can participate in an event, just who can go to SLC), we can get first place at SLC. This would, of course, require commitment to *both* the GSMST CyberDragons and TSA, and the participants would have to pay for themselves, but if they are fine with that, it *should* be fine. And TSA will probably take care of registration, so no extra paper work!
+
+# picoCTF
+## Logistics
+**Competition Period:** March 14---March 28
+
+**Registration Period**: February 1---March 28
+
+**Fees**: None
+
+**Limit**: 5 students max per team, no limit on teams
+
+## Description
+[picoCTF](https://picoctf.org/) is the biggest CTF competition in the entire world. It's open to people of varying skill levels and known for its high prize pool. It's hosted by Carnegie Mellon, and placing within the top three teams gets you an all-expenses-paid campus tour of CMU. Last year, we got eighth place in the High School Divison and we plan to blow everyone's expectations away this year.
+
+# Cyber Skyline's National Cyber League (NCL)
+## Logistics
+**Competition Period:** March 31---April 2 \& April 14---April 16
+
+**Registration Period:** January---April 13
+
+**Fees:** $35/team
+
+**Limit:** Max of 7 students/team 
+
+## Description
+[Cyber Skyline's National Cyber League (NCL)](https://cyberskyline.com/events/ncl) is a virtual cybersecurity competition and training platform. It is designed to provide participants, including students and professionals, with hands-on experience and practical skills in various cybersecurity disciplines. The NCL features a series of challenges that simulate real-world scenarios, allowing participants to develop and demonstrate their expertise in areas such as network security, cryptography, web application security, log analysis, and more. The NCL follows a gamified approach, where participants compete individually or in teams to solve a series of challenges within a given timeframe. These challenges are designed to assess participants' technical knowledge, critical thinking, problem-solving abilities, and ability to work under pressure. The platform offers different difficulty levels, ranging from introductory to advanced, catering to participants with varying skills. 
+
+There are two competitions offered in the NCL event: the individual game and the team game. The individual game takes place from March 31 to April 2, and you can register whenever you want for the individual game, even during the competition period itself. For the team game, the competition period is April 14 to April 16, and you have to register between January to April 13 by 11:59 PM. It costs $35 per team for a max of two teams. We could recruit two teams and make each team member pay a hefty little fine along with that. And there's 7 members max per team. This competition also focuses on log analysis, network traffic analysis, etc.
+
+# ÅngstromCTF
+## Logistics
+**Competition Period:** April 21---26
+
+**Registration Period**: TBD
+
+**Fees:** None
+
+**Limit:** None
+
+## Description
+[ÅngstromCTF](https://angstromctf.com/) is another jeopardy-style CTF competition hosted by team Ångstrom. It holds a focus on binary exploitation, cryptography, reverse engineering, and web exploitation, with a few miscellanous questions.
+
+# TJCTF
+## Logistics
+**Competition Period:** May 26---28
+
+**Registration Period**: TBD
+
+**Fees**: None
+
+**Limit**: None
+
+## Description
+[TJCTF](https://tjctf.org/) is a jeopardy-style CTF competition that takes place in late May (probably after school is out/during finals). The categories in this competition are: cryptography, binary exploitation, reverse engineering, web exploitation, forensics, etc. Even though it's seemingly *impossible* to compete in this challenge due to its timeframe being so close to the end of the school year, I definitely think it is worth a try. The prize pool is $4000, with $1,500, $1,000, $750, $500, and $200, being awarded to the winners in order, respectively.
